@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.998" height="39.002" viewBox="0 0 31.998 39.002">
+  <g id="Group_73" data-name="Group 73" transform="translate(0.85 0.85)">
+    <path id="Subtraction_13" data-name="Subtraction 13" d="M15.146,9.225C6.795,9.225,0,7.139,0,4.574,0,2.328,5.217.4,12.4,0c1.711,1.9,3.059,3.15,3.115,3.2.125-.134,1.254-1.36,2.77-3.179a31.509,31.509,0,0,1,8.58,1.6C29.08,2.454,30.3,3.5,30.3,4.574,30.3,7.139,23.5,9.225,15.146,9.225Z" transform="translate(0 28.079)" fill="none" stroke="#fff" stroke-width="1.7"/>
+    <path id="Union_1" data-name="Union 1" d="M.051,12.734C.018,12.378,0,12.018,0,11.653a11.651,11.651,0,1,1,23.3,0q0,.58-.057,1.146a6.917,6.917,0,0,1-.143,1.009,11.564,11.564,0,0,1-1.648,4.143c-3.289,6.167-9.934,13.333-9.934,13.333S.281,20.912.051,12.734Z" transform="translate(3.996)" fill="none" stroke="#fff" stroke-width="1.7"/>
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(10.148 6.151)" fill="none" stroke="#fff" stroke-width="1.7">
+      <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+      <circle cx="5.5" cy="5.5" r="4.65" fill="none"/>
+    </g>
+  </g>
+</svg>
