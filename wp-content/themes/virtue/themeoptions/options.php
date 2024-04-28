@@ -36,7 +36,6 @@ if ( ! class_exists( 'Redux' ) ) {
         'allow_sub_menu'       => false,
         'menu_title'           => __('Theme Options', 'virtue'),
         'page_title'           => __('Theme Options', 'virtue'),
-        'google_api_key'       => 'AIzaSyALkgUvb8LFAmrsczX56ZGJx-PPPpwMid0',
         'google_update_weekly' => false,
         'async_typography'     => false,
         'admin_bar'            => true,
